@@ -56,13 +56,8 @@ This is the **end of the DNS lookup**, and the resolver returns the result to yo
 
 ---
 
-# 🎯 **Final Interview-Ready Summary**
+#  **Final Interview-Ready Summary**
 
 “In DNS resolution, the DNS recursor receives the user’s DNS request and queries higher-level servers to find the domain’s IP. The root nameserver directs it to the appropriate TLD nameserver based on the domain extension. The TLD nameserver then directs the resolver to the domain’s authoritative nameserver, which finally provides the actual IP address. This IP is returned to the client so it can connect to the web server.”
 
----
 
-DNS (Domain Name System) is a distributed system that translates human-readable domain names like  
-**www.google.com**  
-into machine-readable IP addresses like  
-**142.250.190.78**.
