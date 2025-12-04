@@ -14,7 +14,7 @@
 
 ---
 
-### **Web servers work on the request–response model**, where the client sends an HTTP request and the server processes it and returns an HTTP response.
+* Web servers work on the request–response model**, where the client sends an HTTP request and the server processes it and returns an HTTP response.
 
 ---
 
